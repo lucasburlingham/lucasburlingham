@@ -16,14 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-                Christian, Student, Web Developer, and Prospective Systems
-                Administrator
+Christian, Student, Web Developer, and Prospective Systems
+Administrator
 
 
-                <a class="btn btn-primary btn-md" href="https://my.indeed.com/p/lucasb-1g9vcma" target="_blank"
-                    role="button">Indeed
-                    Profile</a>
-                <a class="btn btn-primary btn-md" href="https://www.linkedin.com/in/lucas-burlingham" target="_blank"
-                    role="button">Linkedin
-                    Profile</a>
+<a class="btn btn-primary btn-md" href="https://my.indeed.com/p/lucasb-1g9vcma" target="_blank"
+role="button">Indeed Profile</a>
+<a class="btn btn-primary btn-md" href="https://www.linkedin.com/in/lucas-burlingham" target="_blank" role="button">Linkedin Profile</a>
 
