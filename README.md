@@ -21,4 +21,4 @@ role="button">Indeed Profile</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasburlingham&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Lucas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasburlingham)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasburlingham@icloud.com)](https://github.com/anuraghazra/github-readme-stats)
