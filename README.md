@@ -15,3 +15,7 @@ Administrator
 role="button">Indeed Profile</a>
 <a class="btn btn-primary btn-md" href="https://www.linkedin.com/in/lucas-burlingham" target="_blank" role="button">Linkedin Profile</a>
 
+
+[![Lucas' Github stats](https://github-readme-stats.vercel.app/api?username=lucasburlingham)](https://github.com/anuraghazra/github-readme-stats)
+
+
