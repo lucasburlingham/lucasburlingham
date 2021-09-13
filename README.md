@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my personal page: [Lucas Burlingham's Personal Page](https://lucasburlingham.netlify.app)
-- 💬 Ask me about: Linux (Ubuntu in particular)
-- 📫 How to reach me: My page has a contact form that will send me an email: [Contact](https://lucasburlingham.netlify.app/#contact)
+- 🔭 I’m currently working on my personal page: [JovarkOS](https://jovarkos.org)
 - 😄 Pronouns: Im a guy.
 - ⚡ Fun fact: Im a social runner.
 
