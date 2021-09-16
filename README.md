@@ -17,7 +17,7 @@ role="button">Indeed Profile</a>
 [![Lucas' Github stats](https://github-readme-stats.vercel.app/api?username=lucasburlingham)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasburlingham&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasburlingham&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Lucas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasburlingham)](https://github.com/anuraghazra/github-readme-stats)
 
