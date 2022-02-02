@@ -3,12 +3,6 @@
 ### I'm 17,
 **and looking to go into the Army as a 25 Series.**
 
-Please hire me. Here are somethings that you may find interesting about me:
-- I’m currently working on a GNU/Linux distribution: [JovarkOS](https://jovarkos.org)
-- Pronouns: I'm a guy and plan to stay that way.
-- I'm a social runner, and clean my church on Saturday's. 
-- I am a Christian, what are you?
-
 
 ### More helpful information about me and my experience:
 
