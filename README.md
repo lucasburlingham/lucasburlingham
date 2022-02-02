@@ -1,7 +1,7 @@
 ## Hi. My name is Lucas Burlingham.
 
 ### I'm 17,
-**and looking to go into the Air Force Reserves while getting a BS in Informatics.**
+**and looking to go into the Army as a 25 Series.**
 
 Please hire me. Here are somethings that you may find interesting about me:
 - I’m currently working on a GNU/Linux distribution: [JovarkOS](https://jovarkos.org)
