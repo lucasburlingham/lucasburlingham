@@ -13,8 +13,7 @@ role="button">Indeed Profile</a>
 <a class="btn btn-primary btn-md" href="https://www.linkedin.com/in/lucas-burlingham" target="_blank" role="button">Linkedin Profile</a>
 
 
-[![Lucas' Github stats](https://github-readme-stats.vercel.app/api?username=lucasburlingham)](https://github.com/anuraghazra/github-readme-stats)
-
+[![wakatime](https://wakatime.com/badge/user/7e1905d0-e3a0-4cd1-8818-1f7978dac4fb.svg)](https://wakatime.com/@7e1905d0-e3a0-4cd1-8818-1f7978dac4fb)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasburlingham&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
