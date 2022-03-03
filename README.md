@@ -17,6 +17,7 @@ role="button">Indeed Profile   </a>
 [![Lucas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasburlingham&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Lucas' Github stats](https://github-readme-stats.vercel.app/api?username=lucasburlingham)](https://github.com/anuraghazra/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 
