@@ -16,6 +16,9 @@ role="button">Indeed Profile   </a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasburlingham&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 [![Lucas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasburlingham&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Lucas' Github stats](https://github-readme-stats.vercel.app/api?username=lucasburlingham)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="LUVK5HF3NWXK2" />
