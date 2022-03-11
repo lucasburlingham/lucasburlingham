@@ -1,7 +1,7 @@
 ## Hi. My name is Lucas Burlingham.
 
 ### I'm 17,
-**and have a temporary reservation to go into the Army as a 25U Signal Support Specialist.**
+**and am going into the Army as a 25U Signal Support Systems Specialist.**
 
 
 ### More helpful information about me and my experience:
