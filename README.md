@@ -14,7 +14,6 @@ role="button">Indeed Profile   </a>
 [![wakatime](https://wakatime.com/badge/user/7e1905d0-e3a0-4cd1-8818-1f7978dac4fb.svg)](https://wakatime.com/@7e1905d0-e3a0-4cd1-8818-1f7978dac4fb)
 
 [![Lucas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasburlingham&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
-[![Sparkline](https://stars.medv.io/lucasburlingham/badges.svg)](https://stars.medv.io/lucasburlingham/badges)
 
 
 [![Lucas' Github stats](https://github-readme-stats.vercel.app/api?username=lucasburlingham)](https://github.com/anuraghazra/github-readme-stats)
