@@ -1,4 +1,4 @@
-## Hi. My name is Lucas Burlingham.
+## My name is Lucas Burlingham.
 
 ### I'm 17,
 **and am going into the Army as a 25U Signal Support Systems Specialist.**
