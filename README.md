@@ -1,7 +1,7 @@
 ## My name is Lucas Burlingham.
 
 ### I'm 17,
-**and am going into the Army as a 25U Signal Support Systems Specialist.**
+**and am attending training at 15th Signal Corps for the US Army for the 25U Signal Support Systems Specialist occupational specialty.**
 
 
 ### More helpful information about me and my experience:
